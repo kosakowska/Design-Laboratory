@@ -1,6 +1,6 @@
 //by Małgorzata Kosakowska and Michał Ptak
 #include <Adafruit_MLX90640.h>
-#include "gest1.h"
+#include "gest.h"
 Adafruit_MLX90640 mlx;
 float frame[32*24]; // buffer for full frame of temperatures
 
